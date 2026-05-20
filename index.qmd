@@ -1,6 +1,10 @@
 ---
-title: "My Website"
+title: "My Details"
 ---
 
-Hello, Website!
+I strava all my walks @Eliot Schroeder.
+
+Email: 
+
+Fundraising link: 
 
