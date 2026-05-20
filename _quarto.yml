@@ -20,6 +20,13 @@ format:
     theme: flatly
     include-in-header: verify.html
     include-after-body: my_footer.html
+    
+    
+# cd ~/Desktop/Bens-Website
+#quarto render
+#git add .
+#git commit -m "describe your changes"
+#git push
 
 
 

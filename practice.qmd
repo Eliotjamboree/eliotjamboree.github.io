@@ -1,7 +1,9 @@
 ---
-title: "I wrote a new page"
+title: "Background"
 output: html_document
 date: "2025-10-07"
 ---
 
-Very interesting information goes here. 
+Hi
+
+I'm Eliot and I'm doing a jamboree in Poland. This is my website that keeps track of the miles i've raised as i try to achieve my fundraising target. 
