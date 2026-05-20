@@ -11,9 +11,9 @@ website:
       - href: about.qmd
         text: About
       - href: practice.qmd
-        text: Click Me!
+        text: Irrelevant
       - href: Analysis1.qmd
-        text: NFL Analysis
+        text: Eliot's Mileage
 
 format:
   html:
